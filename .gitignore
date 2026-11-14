@@ -1,0 +1,32 @@
+# Data files
+data/processed/
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and reports
+*.log
+*_log.txt
+verification_results.txt
+data_preparation_log.txt
+dataset_analysis_report.txt
+
+# Jupyter
+.ipynb_checkpoints/
