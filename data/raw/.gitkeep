@@ -1,0 +1,8 @@
+# Place World Bank International Debt Statistics CSV files here
+# Required files:
+#   - IDSData.csv
+#   - IDSCountry.csv
+#   - IDSCountry-Series.csv
+#   - IDSSeries.csv
+#   - IDSFootNote.csv
+#   - IDSSeries-Time.csv
